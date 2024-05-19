@@ -1,0 +1,20 @@
+* {
+    font-family: 'Open Sans, Courier New', Courier, monospace;
+    color: rgb(31, 30, 30);
+}
+
+h1 {
+    font-size: 32px;
+    color: rgb(34, 118, 121);
+}
+
+p{
+    font-size: 20px;
+    color: rgb(36, 35, 35);
+}
+
+#uvod {
+    font-size: 15px;
+    color: black;
+    background-color: rgb(243, 241, 238);
+}
